@@ -1,0 +1,41 @@
+
+body{
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.invoice-head {
+	font-size: 2rem;
+    line-height: 1;
+    margin: 2 2rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.add-item-btn{
+	width: 100px;
+	line-height: 25px;
+	margin-left: 240px;
+    margin-bottom: 8px;
+}
+.gen-inv {
+	margin-bottom: -60px;
+    margin-left: 18px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.discount {
+	width: 100px;
+    margin-right: 10px;
+    height: 23px;
+}
+.modal-title{
+	align: center;
+}
+.row-clear {
+	padding-bottom: 3px;
+}
