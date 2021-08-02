@@ -20,9 +20,6 @@ Generate Invoice is an application used to add items, view item details and gene
   Can generate invoice in a pdf format using TCPDF
   Invoice can be downloaded and printed
 
-
-Copy the the generate-invoice folder to htdocs
-
 ###Database Setup
 Import sql/invoice.sql into your database
 
